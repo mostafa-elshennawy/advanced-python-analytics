@@ -1,0 +1,15 @@
+--- AUTOMATED KPI SUMMARY ---
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Avg Profit Margin: 12.03%
+
+--- STATISTICAL CORRELATION WITH PROFIT ---
+profit               1.000000
+sales                0.479064
+profit_margin        0.223732
+sales_capped         0.182907
+quantity             0.066253
+row_id               0.012497
+shipping_duration   -0.004658
+postal_code         -0.028670
+discount            -0.219487
